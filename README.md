@@ -1,1 +1,0 @@
-# Content_Aware_Image_Resize
