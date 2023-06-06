@@ -27,14 +27,14 @@ seams in multi-size images
 
 ## Results
 
-From This:
-![boat](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/f55967a0-b6ed-418c-a311-0d6f7bb4eee9)
 
-![energy](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/6b19d6d6-dd0a-4bef-98e0-7933789b9b9f)
+1. ![boat](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/f55967a0-b6ed-418c-a311-0d6f7bb4eee9)
 
-![Seampath](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/ca1fab27-6aca-45d0-be87-18d5c3f71e53)
+2. ![energy](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/6b19d6d6-dd0a-4bef-98e0-7933789b9b9f)
 
-![resized](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/62847cab-d789-4b99-93bf-f8a63487c086)
+3. ![Seampath](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/ca1fab27-6aca-45d0-be87-18d5c3f71e53)
+
+4. ![resized](https://github.com/Patilsanika/Content_Aware_Image_Resize/assets/86789929/62847cab-d789-4b99-93bf-f8a63487c086)
 
 As you can see, most of the important content in the image: the boats, have been left intact.
 The algorithm removed some of the rock formations and the water(leading to the boats appearing nearer to each other).
