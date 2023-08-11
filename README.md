@@ -5,7 +5,7 @@ called “content-aware” cropping or image retargeting. Its an algorithm that 
 
 ## TechStack
 
-Simply, Written code in python language and executed on google colab
+Simply, Written code in Java language and executed on VS Code
 
 ## Algorithm
 
